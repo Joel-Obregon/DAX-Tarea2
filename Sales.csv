@@ -1,0 +1,11 @@
+﻿OrderDate;Product;Category;Quantity;UnitPrice;Region
+5/1/2024;Dell Inspiron 15;Laptops;5;750.00;North America
+6/1/2024;iPhone 14;Smartphones;10;999.00;Europe
+7/1/2024;Samsung Galaxy Tab;Tablets;8;349.99;Asia
+8/1/2024;Sony WH-1000XM5;Headphones;15;399.99;South America
+9/1/2024;LG UltraGear 27GP;Monitors;3;299.99;North America
+10/1/2024;Logitech MX Keys;Keyboards;7;119.99;Europe
+11/1/2024;Bose SoundLink;Speakers;4;179.99;Asia
+12/1/2024;HP Spectre x360;Laptops;2;1400.00;North America
+13/1/2024;Google Pixel 8;Smartphones;6;799.00;Europe
+14/1/2024;iPad Air;Tablets;9;599.00;Asia
